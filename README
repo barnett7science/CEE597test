@@ -1,3 +1,10 @@
 This is a test
 
 This is a test of adding a line to the readme
+
+Jacob's note to self:
+When making changes to a file, the steps are:
+1. Save changes to file on local machine
+2. Stage changes ('+' button in the 'Source Control' tab of Visual Studio Code)
+3. Commit changes ('checkmark' button in the 'Source Control' tab), adding a commit message
+4. Push changes (using the '...' dropdown menu in 'Source Control')
