@@ -8,3 +8,4 @@ When making changes to a file, the steps are:
 2. Stage changes ('+' button in the 'Source Control' tab of Visual Studio Code)
 3. Commit changes ('checkmark' button in the 'Source Control' tab), adding a commit message
 4. Push changes (using the '...' dropdown menu in 'Source Control')
+5. this is Kaitlyn's test
