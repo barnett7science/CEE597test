@@ -10,3 +10,7 @@ print(x * y)
 
 # adding a line for division
 print( x / y)
+
+
+# add a line for square x
+print(x**2)
